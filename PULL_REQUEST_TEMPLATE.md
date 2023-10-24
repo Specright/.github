@@ -1,13 +1,7 @@
-**Jira ID:** _\<Add issue ID here>_
+# Issue ID 
 
-#### Description:
-_\<Add description here>_
+# Description
 
-#### Resolution:
-_\<Add resolution here (only if bug fix, remove section otherwise)>_
+# Testing
 
-#### Testing:
-_\<Add/describe tests here>_
-
-#### Proof of testing:
-_\<Screenshots, location of test results, etc.>_
+# Proof of testing
